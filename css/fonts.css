@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Bebas";
+  src: url('../fonts/Bebas.eot') format('eot'),
+  url('../fonts/Bebas.otf') format('otf'),
+  url('../fonts/Bebas.svg'),
+  url('../fonts/Bebas.ttf') format('ttf'),
+  url('../fonts/Bebas.woff') format('woff');
+  font-weight: normal;
+}
